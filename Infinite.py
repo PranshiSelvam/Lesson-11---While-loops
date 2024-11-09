@@ -1,3 +1,3 @@
 i = 1
-while i:
+while i==1:
     print("My name is pranshi")
